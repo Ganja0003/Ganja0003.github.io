@@ -1,0 +1,19 @@
+{
+  "name": "ganja0003.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganja0003/Ganja0003.github.io.git"
+  },
+  "author": "ganja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ganja0003/Ganja0003.github.io/issues"
+  },
+  "homepage": "https://github.com/Ganja0003/Ganja0003.github.io#readme"
+}
