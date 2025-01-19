@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "question": "What is the book sent to the Muslims called?",
+    "options": [
+      { "text": "Sunnah", "isCorrect": false },
+      { "text": "Quran", "isCorrect": true },
+      { "text": "Hadith", "isCorrect": false },
+      { "text": "Wudhu", "isCorrect": false }
+    ],
+    "explanation": "The book that is sent to the Muslims is called Quran."
+  },
+  {
+    "id": 2,
+    "question": "What is the name of the last prophet in Islam?",
+    "options": [
+      { "text": "Musa", "isCorrect": false },
+      { "text": "Issa", "isCorrect": false },
+      { "text": "Muhammad", "isCorrect": true },
+      { "text": "Ibrahim", "isCorrect": false }
+    ],
+    "explanation": "The last prophet in Islam is Prophet Muhammad (peace be upon him)."
+  },
+  {
+    "id": 3,
+    "question": "What is the primary place of worship for Muslims?",
+    "options": [
+      { "text": "Church", "isCorrect": false },
+      { "text": "Synagog", "isCorrect": false },
+      { "text": "Mosque", "isCorrect": true },
+      { "text": "Temple", "isCorrect": false }
+    ],
+    "explanation": "The primary place of worship for Muslims is a mosque."
+  }
+]
