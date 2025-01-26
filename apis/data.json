@@ -31,5 +31,16 @@
       { "text": "Temple", "isCorrect": false }
     ],
     "explanation": "The primary place of worship for Muslims is a mosque."
+  },
+  {
+    "id": 4,
+    "question": "What is the primary place of worship for Muslims?",
+    "options": [
+      { "text": "cmxis", "isCorrect": false },
+      { "text": "Synagog", "isCorrect": false },
+      { "text": "Mosque", "isCorrect": true },
+      { "text": "Temple", "isCorrect": false }
+    ],
+    "explanation": "The primary place of worship for Muslims is a mosque."
   }
 ]
