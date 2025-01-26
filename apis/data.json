@@ -34,13 +34,35 @@
   },
   {
     "id": 4,
-    "question": "What is the primary place of worship for Muslims?",
+    "question": "Which of these is a key pillar of Islam?",
     "options": [
-      { "text": "cmxis", "isCorrect": false },
-      { "text": "Synagog", "isCorrect": false },
-      { "text": "Mosque", "isCorrect": true },
-      { "text": "Temple", "isCorrect": false }
+      { "text": "Zakat", "isCorrect": true },
+      { "text": "Hajj", "isCorrect": false },
+      { "text": "Sharia", "isCorrect": false },
+      { "text": "Jihad", "isCorrect": false }
     ],
-    "explanation": "The primary place of worship for Muslims is a mosque."
+    "explanation": "Zakat, the practice of charity, is one of the Five Pillars of Islam."
+  },
+  {
+    "id": 5,
+    "question": "What is the Islamic holy month of fasting called?",
+    "options": [
+      { "text": "Ramadan", "isCorrect": true },
+      { "text": "Eid", "isCorrect": false },
+      { "text": "Hajj", "isCorrect": false },
+      { "text": "Shawwal", "isCorrect": false }
+    ],
+    "explanation": "The Islamic holy month of fasting is called Ramadan."
+  },
+  {
+    "id": 6,
+    "question": "What is the direction that Muslims face during prayer?",
+    "options": [
+      { "text": "Mecca", "isCorrect": true },
+      { "text": "Jerusalem", "isCorrect": false },
+      { "text": "Medina", "isCorrect": false },
+      { "text": "Kufa", "isCorrect": false }
+    ],
+    "explanation": "Muslims face the direction of Mecca, specifically the Kaaba, during prayer."
   }
 ]
